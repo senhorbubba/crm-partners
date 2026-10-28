@@ -3,6 +3,7 @@
 A relationship-first CRM I built for my own commercial work — founders, consultants, and BD / partnership leads. It's built to answer one question on every screen: **"What's next?"** — and I use it every day.
 
 > ℹ️ The source code is private. This is a write-up of the product and the thinking behind it.
+> 🛠️ Built with Claude Code under my direction, from spec to production deploy: I wrote the specs, reviewed every change and owned the architecture and data decisions.
 
 ## Problem
 
